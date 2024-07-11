@@ -1,0 +1,10 @@
+.searchInput {
+    width: 300px;
+}
+
+.characterList {
+    width: 100%;
+    height: 580px;
+    overflow: auto;
+    align-content: baseline;
+}
